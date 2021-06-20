@@ -1,4 +1,4 @@
-### 嗨，我是 Typebird ，我喜歡閱讀、寫作、遊戲與咖啡。
+### 嗨，我是竹鳥，我喜歡閱讀、寫作、遊戲與咖啡。
 
 我來自 <img height="12" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"> 臺灣，透過自學學習編程，熱愛各種奇幻與科幻故事。
 
