@@ -1,16 +1,19 @@
-### Hi there 👋
+### 嗨，我是 Typebird ，我喜歡閱讀、寫作、遊戲與咖啡。
 
-<!--
-**typebird/typebird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我來自 <img height="14" src="https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"> 臺灣，透過自學學習編程，熱愛各種奇幻與科幻故事。
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 這些是我使用的語言，我對函數導向語言很有興趣。
+
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> JavaScript
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code> TypeScript
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/bc74dc5f9d530003dcd057b7b73c12fbcc4484ed/topics/elm/elm.png"></code> Elm
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code> Rust
+
+</br>
+
+### 今年我在 Github 所做的事情：
+
+<img src="https://github-readme-stats.vercel.app/api?username=typebird&theme=prussian&hide=issues&hide_title=true&show_icons=true&bg_color=80,172F45,111d28&hide_border=true&">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typebird&layout=compact&hide=HTML&hide_title=true&theme=prussian&card_width=445&bg_color=80,172F45,111d28&hide_border=true&">
