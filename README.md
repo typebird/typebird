@@ -13,7 +13,7 @@
 
 </br>
 
-### 我在 Github 留下的紀錄。
+### 我在 Github 留下的紀錄不多。
 
 <img src="https://github-readme-stats.vercel.app/api?username=typebird&theme=prussian&hide=issues&hide_title=true&show_icons=true&bg_color=80,172F45,111d28&hide_border=true&">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=typebird&layout=compact&hide=HTML&hide_title=true&theme=prussian&card_width=445&bg_color=80,172F45,111d28&hide_border=true&count_private=true&">
